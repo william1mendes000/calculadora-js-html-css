@@ -55,22 +55,32 @@ input{
 }
 
 .blue {
-	background-color: #0cd0cd;
+	background-color: #7FFF00;
 }
 
 .pin {
-	background-color: #cf1596;
+	background-color: #ADFF2F;
 }
 
 .gre {
-	background-color: #aad800;
+	background-color: #9ACD32;
+	
 }
 
 .pur {
-	background-color: #8c52ff;
+	background-color: #6B8E23;
 }
 
 .ora {
-	background-color: #fcb707;
+	background-color: #556B2F;
 }
 
+.titulo {
+	color: white;
+	height: 80vh;
+	width: 0vh;
+	font-size: 20px;
+	font-family: 'Russo One', sans-serif;
+	padding-bottom: 20px;
+
+}
